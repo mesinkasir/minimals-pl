@@ -69,7 +69,7 @@ Post and Page
 
 Need help for your project ?? Hire Me
 
-[![Pelican modern minimalis themes](static/media/minimals.jpg)](https://creativitas.dev/)
+[![Pelican modern minimalis themes](static/media/minimals-hire.jpg)](https://creativitas.dev/)
 
 ---
 
