@@ -82,6 +82,8 @@ py -m pip install -e "git+https://github.com/mesinkasir/minimals-pl.git"
 py -m pip install "pelican[markdown]"
 ```
 
+open `venv\Lib\site-packages\pelican\themes` and create new folder name it with `minimals` - upload source code project in to `venv\Lib\site-packages\pelican\themes\minimals`
+
 open `pelicanconf.py ` and change themes to be `minimals`
 
 Or you can simply open the `static/example-content` folder And copy the `pelicanconf.py` file.
