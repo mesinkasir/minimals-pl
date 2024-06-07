@@ -79,7 +79,7 @@ Open your pelican project , or create new project `pelican-quickstart`
 
 next install markdown for pelican `py -m pip install "pelican[markdown]`
 
-open `venv\Lib\site-packages\pelican\themes` 
+Opne your project `mkdir themes` 
 
 clone this repo `git clone https://github.com/mesinkasir/minimals-pl.git`
 
