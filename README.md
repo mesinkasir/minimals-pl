@@ -12,9 +12,7 @@ Run Demo for ✍️ Blog Site : [https://youtu.be/BrtpUDFYMV0](https://youtu.be/
 
 Run Demo for 📖 Documentation Site : [https://www.hockeycomputindo.com/dokumentasi/programtokomurah/](https://www.hockeycomputindo.com/dokumentasi/programtokomurah/)
 
-Hire Developer [👉 Hire me →](https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll)
-
-Need Doc site ?? [→ Hire me 👈](https://www.fiverr.com/creativitas/design-modern-documentation-website-astro-js-stalight)
+Hire Developer [👉 Hire me →](https://www.hockeycomputindo.com/en/jamstack/)
 
 ---
 
